@@ -121,3 +121,7 @@ require (
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/go-gost/gost => github.com/amirdaaee/gost-gost v0.0.0-20241002145307-d3809ec634f7
+
+replace github.com/go-gost/x => github.com/amirdaaee/gost-x v0.2.0
