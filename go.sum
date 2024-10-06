@@ -6,8 +6,8 @@ github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 h1:s6gZFSlWYmbqAu
 github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137/go.mod h1:OMCwj8VM1Kc9e19TLln2VL61YJF0x1XFtfdL4JdbSyE=
 github.com/alessio/shellescape v1.4.1 h1:V7yhSDDn8LP4lc4jS8pFkt0zCnzVJlG5JXy9BVKJUX0=
 github.com/alessio/shellescape v1.4.1/go.mod h1:PZAiSCk0LJaZkiCSkPv8qIobYglO3FPpyFjDCtHLS30=
-github.com/amirdaaee/gost-x v0.2.0 h1:zVDc1M/COKuW8jBmAMerwhiDFv3wk5FuQNrQc4z/8P4=
-github.com/amirdaaee/gost-x v0.2.0/go.mod h1:UJJPO0EUTzmaSuGfaoBVHUzVUKWFsobKxmGD0rrpM/Y=
+github.com/amirdaaee/x v0.2.0-0 h1:aoLOjSknBBCrAbRyl9Xru68jpYYRLCTdoa0G1TvuYkA=
+github.com/amirdaaee/x v0.2.0-0/go.mod h1:UJJPO0EUTzmaSuGfaoBVHUzVUKWFsobKxmGD0rrpM/Y=
 github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d h1:Byv0BzEl3/e6D5CLfI0j/7hiIEtvGVFPCZ7Ei2oq8iQ=
 github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d/go.mod h1:WaHUgvxTVq04UNunO+XhnAqY/wQc+bxr74GqbsZ/Jqw=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
