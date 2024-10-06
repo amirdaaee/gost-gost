@@ -38,3 +38,5 @@ snap
 *.yaml
 *.txt
 dist/
+
+Dockerfile.dev
